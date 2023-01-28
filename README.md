@@ -22,6 +22,8 @@ Workflow of App:
 
 => All the styling and themeing can be found in Components directory.
 
+=> Out of CRUD operations , < create > < read all > < read one > functionalities have been implemented. 
+
 
 Warm Regards
 Altaf Mohammad (JavaScript Full Stack Developer)
