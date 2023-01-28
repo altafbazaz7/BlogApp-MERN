@@ -18,6 +18,10 @@ Workflow of App:
 
 => User can click on any blog post to see its all details.
 
+=> All the API calls from front end can be found in Services directory.
+
+=> All the styling and themeing can be found in Components directory.
+
 
 Warm Regards
 Altaf Mohammad
