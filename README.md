@@ -24,4 +24,4 @@ Workflow of App:
 
 
 Warm Regards
-Altaf Mohammad (JavaScripr Full Stack Developer)
+Altaf Mohammad (JavaScript Full Stack Developer)
